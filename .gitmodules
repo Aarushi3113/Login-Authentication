@@ -1,0 +1,3 @@
+[submodule "newsbyte-login-signup-ui"]
+	path = newsbyte-login-signup-ui
+	url = git@github.com:Aarushi3113/Login-Authentication.git
